@@ -1,2 +1,2 @@
 *.sh
-x86_64/*.sh
+x86_64/updaterepo.sh

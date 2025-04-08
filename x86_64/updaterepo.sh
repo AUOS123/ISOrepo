@@ -1,6 +1,6 @@
 #!/bin/bash
 
-rm ISOrepo*
+rm bridge_repo*
 
 echo "repo_add"
 
